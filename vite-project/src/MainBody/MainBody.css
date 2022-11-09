@@ -1,0 +1,14 @@
+.MainBodyContent {
+    padding: 44px 117px;
+    box-sizing: border-box;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    background-color: #23252C;
+}
+
+/* @media (prefers-color-scheme: light) {
+    .Content {
+      background-color: #F5F5F5;
+  }
+} */

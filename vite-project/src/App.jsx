@@ -1,4 +1,5 @@
 import Header from './Header/Header'
+import MainBody from './MainBody/MainBody'
 import './App.css'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <div className="App">
       <Header />
       <div>
-        <p>I am a website</p>
+        <MainBody />
       </div>
     </div>
   )
